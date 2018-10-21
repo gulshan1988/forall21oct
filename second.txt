@@ -1,2 +1,0 @@
-This is the second file we are creating in root
-This is second line
